@@ -1,4 +1,4 @@
-# Desafio : Árvores Binárias
+## Desafio : Árvores Binárias
 
 Você deve criar um programa em C# que lida com a criação e manipulação de árvores binárias.
 
@@ -54,12 +54,3 @@ Nó Filho: Os nós que são filhos de outro nó.
 Nó Folha: Os nós que não têm filhos.
 Filho à Esquerda e à Direita: Os dois filhos que um nó pode ter, sendo o filho à esquerda geralmente menor ou igual ao nó pai e o filho à direita geralmente maior.
 
-# Exemple:
-
-Maior ->
-Menor <-
-                    (24)
-                   /    \
-               (10)      (32)
-               /  \      /  \
-             (5) (12)  (29) (35)
