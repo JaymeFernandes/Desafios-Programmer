@@ -6,13 +6,13 @@ Este programa em C# verifica se uma palavra ou frase é um palíndromo. Um palí
 
 Para executar o programa, siga estas etapas:
 
-1. Compile o programa, se necessário.
+- Compile o programa, se necessário.
 
-2. Execute o programa.
+- Execute o programa.
 
-3. Ele solicitará que você digite uma palavra ou frase.
+- Ele solicitará que você digite uma palavra ou frase.
 
-4. Após a entrada, o programa determinará se é um palíndromo e mostrará a saída correspondente.
+- Após a entrada, o programa determinará se é um palíndromo e mostrará a saída correspondente.
 
 ## Exemplo
 
