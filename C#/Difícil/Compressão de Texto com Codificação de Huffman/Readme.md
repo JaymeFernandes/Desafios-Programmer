@@ -37,7 +37,7 @@ Console.WriteLine("Texto Descomprimido: " + textoDescomprimido);
 ```
 exemplo: Banana
 
-<img src="![Screenshot 2023-11-05 at 15-10-10 Huffman Tree - Computer Science Field Guide](https://github.com/JaymeFernandes/Desafios-Programmer/assets/143356448/7dd294c4-88e5-48ef-929a-f7eb4c3e64b9)">
+<img src=" ![Screenshot 2023-11-05 at 15-10-10 Huffman Tree - Computer Science Field Guide](https://github.com/JaymeFernandes/Desafios-Programmer/assets/143356448/293e1a98-b0dc-4cb7-b979-3cb2c33bce72) ">
 
 ## Observações
 
